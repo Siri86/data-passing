@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/data-passing/static/css/main.97f9569f.css",
+    "main.js": "/data-passing/static/js/main.2b1e19f9.js",
+    "index.html": "/data-passing/index.html",
+    "main.97f9569f.css.map": "/data-passing/static/css/main.97f9569f.css.map",
+    "main.2b1e19f9.js.map": "/data-passing/static/js/main.2b1e19f9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.97f9569f.css",
+    "static/js/main.2b1e19f9.js"
+  ]
+}
